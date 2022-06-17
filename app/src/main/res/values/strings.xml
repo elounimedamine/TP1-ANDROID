@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="valider">+ Valider</string>
+    <string name="taper_le_prenom">Taper le prenom</string>
+    <string name="taper_le_nom">Taper le nom</string>
+    <string name="inscription">Inscription</string>
+</resources>
